@@ -13,7 +13,7 @@ public class Student {
    /* private String studentID;
     private String address;*/
 
-    public String getName() {
+    /*public String getName() {
         return name;
     }
 
@@ -26,7 +26,7 @@ public class Student {
     }
 
     public void setAddress(String address) {
-        this.address = address;
+        this.address = address;*/
     }
     
    
