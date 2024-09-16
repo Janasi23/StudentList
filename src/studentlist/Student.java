@@ -13,7 +13,7 @@ public class Student {
    /* private String studentID;
     private String address;*/
 
-    /*public String getName() {
+    public String getName() {
         return name;
     }
 
@@ -21,7 +21,7 @@ public class Student {
         this.name = name;
     }
 
-    public String getAddress() {
+    /*public String getAddress() {
         return address;
     }
 
